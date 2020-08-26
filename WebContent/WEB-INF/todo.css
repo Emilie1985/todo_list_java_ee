@@ -1,0 +1,30 @@
+@charset "UTF-8";
+body{
+	text-align : center ; 
+	background-color : #c1eedd  ;
+}
+h1{
+	font-family : Gabriola;
+	font-size : 40px;
+}
+h2{
+	font-family : Gabriola;
+	font-size : 30px;
+}
+item{
+	text-align : center ; 
+}
+#newTodo {
+	width : 40% ;
+	border-radius : 6px;
+}
+#newTodoButton{
+	border-radius : 6px;
+	background-color :  #DACCE8;
+}
+
+a{
+	text-decoration : none;
+	font-size : 12px;
+	text-align : right;
+}
